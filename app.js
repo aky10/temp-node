@@ -7,4 +7,4 @@
 //global dependency- use it in any project
 //npm instakk -g <packageName>
 
-//package.json-manifest file(stores imp inf
+//package.json-manifest file(stores imp infn n n  
