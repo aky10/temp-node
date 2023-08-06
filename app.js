@@ -7,4 +7,5 @@
 //global dependency- use it in any project
 //npm instakk -g <packageName>
 
-//package.json-manifest file(stores imp infn n n  
+//package.json-manifest file(stores imp infn 
+console.log("amit")
